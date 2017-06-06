@@ -1,5 +1,5 @@
 ﻿<?php
-
+$dd = "testing";
 $db_name = "image_server";
 $db_server = "127.0.0.1";
 $db_user = "fypadmin";
