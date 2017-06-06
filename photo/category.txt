@@ -1,0 +1,447 @@
+Rice
+Eels on rice
+Pilaf
+Chicken-'n'-egg on rice
+Pork cutlet on rice
+Beef curry
+Sushi
+Chicken rice
+Fried rice
+Tempura bowl
+Bibimbap
+Toast
+Croissant
+Roll bread
+Raisin bread
+Chip butty
+Hamburger
+Pizza
+Sandwiches
+Udon noodle
+Tempura udon
+Soba noodle
+Ramen noodle
+Beef noodle
+Tensin noodle
+Fried noodle
+Spaghetti
+Japanese-style pancake
+Takoyaki
+Gratin
+Sauteed vegetables
+Croquette
+Grilled eggplant
+Sauteed spinach
+Vegetable tempura
+Miso soup
+Potage
+Sausage
+Oden
+Omelet
+Ganmodoki
+Pan-fried dumpling
+Stew
+Teriyaki grilled fish
+Fried fish
+Grilled salmon
+Salmon meuniere
+Sashimi
+Grilled pacific saury
+Sukiyaki
+Sweet and sour pork
+Lightly roasted fish
+Steamed egg hotchpotch
+Tempura
+Fried chicken
+Sirloin cutlet
+Nanbanzuke
+Boiled fish
+Seasoned beef with potatoes
+Hambarg steak
+Beef steak
+Dried fish
+Ginger pork saute
+Spicy chili-flavored tofu
+Yakitori
+Cabbage roll
+Rolled omelet
+Egg sunny-side up
+Fermented soybeans
+Cold tofu
+Egg roll
+Chilled noodle
+Stir-fried beef and peppers
+Simmered pork
+Boiled chicken and vegetables
+Sashimi bowl
+Sushi bowl
+Fish-shaped pancake with bean jam
+Shrimp with chill source
+Roast chicken
+Steamed meat dumpling
+Omelet with fried rice
+Cutlet curry
+Spaghetti meat sauce
+Fried shrimp
+Potato salad
+Green salad
+Macaroni salad
+Japanese tofu and vegetable chowder
+Pork miso soup
+Chinese soup
+Beef bowl
+Kinpira-style sauteed burdock
+Rice ball
+Pizza toast
+Dipping noodles
+Hot dog
+French fries
+Mixed rice
+Goya chanpuru
+Apple pie
+Baby back ribs
+Baklava
+Beef carpaccio
+Beef tartare
+Beet salad
+Beignets
+Bibimbap
+Bread pudding
+Breakfast burrito
+Bruschetta
+Caesar salad
+Cannoli
+Caprese salad
+Carrot cake
+Ceviche
+Cheesecake
+Cheese plate
+Chicken curry
+Chicken quesadilla
+Chicken wings
+Chocolate cake
+Chocolate mousse
+Churros
+Clam chowder
+Club sandwich
+Crab cakes
+Creme brulee
+Croque madame
+Cup cakes
+Deviled eggs
+Donuts
+Dumplings
+Edamame
+Eggs benedict
+Escargots
+Falafel
+Filet mignon
+Fish and chips
+Foie gras
+French onion soup
+French toast
+Fried calamari
+Frozen yogurt
+Garlic bread
+Gnocchi
+Greek salad
+Grilled cheese sandwich
+Guacamole
+Hot and sour soup
+Huevos rancheros
+Hummus
+Ice cream
+Lasagna
+Lobster bisque
+Lobster roll sandwich
+Macaroni and cheese
+Macarons
+Miso soup
+Mussels
+Nachos
+Onion rings
+Oysters
+Pad thai
+Paella
+Pancakes
+Panna cotta
+Peking duck
+Pho
+Pork chop
+Poutine
+Prime rib
+Pulled pork sandwich
+Ramen
+Ravioli
+Red velvet cake
+Risotto
+Samosa
+Scallops
+Seaweed salad
+Shrimp and grits
+Spaghetti bolognese
+Spaghetti carbonara
+Spring rolls
+Steak
+Strawberry shortcake
+Tacos
+Takoyaki
+Tiramisu
+Tuna tartare
+Waffles
+三杯雞
+東坡肉
+烏雞湯
+乳酪蛋糕
+乳鴿
+雲吞
+五仁月餅
+京醬肉絲
+全麥面包
+八寶粥
+冬瓜排骨湯
+冬瓜湯
+冰激淩
+冰皮月餅
+涼拌海帶絲
+涼面
+鳳梨酥
+鳳爪
+剁椒魚頭
+包子
+南瓜餅
+鹵牛肉
+鹵肉飯
+叉燒肉
+雙皮奶
+發糕
+口水雞
+可樂雞翅
+可樂雞翼
+司康
+吐司
+咖喱飯
+咖喱雞
+啤酒鴨
+四季豆
+回鍋肉
+土豆泥
+土豆燉牛肉
+地三鮮
+奧爾良烤翅
+奶昔
+奶茶
+奶香饅頭
+奶黃包
+孜然羊肉
+家常豆腐
+壽司
+小雞燉蘑菇
+山藥排骨湯
+巧克力蛋糕
+布朗尼
+幹煸豆角
+年糕
+意大利面
+慕斯蛋糕
+戚風蛋糕
+手抓餅
+手指餅幹
+手撕包菜
+打鹵面
+披薩
+拔絲地瓜
+排骨湯
+提拉米蘇
+方便面
+早餐蛋餅
+春卷
+曲奇
+曲奇餅幹
+木耳炒肉
+木須肉
+杯子蛋糕
+梅菜扣肉
+棉花糖
+椒鹽蝦
+涼拌木耳
+咖喱牛肉
+宮保雞丁
+拍黃瓜
+椰蓉球
+炒餅
+牛肉醬
+窩窩頭
+紅燒豬蹄
+臘肉
+茶葉蛋
+薯片
+辣白菜
+鍋貼
+馬芬
+毛毛蟲面包
+水煮肉片
+水煮魚
+漢堡
+湯圓
+沙拉
+油條
+油燜大蝦
+泡椒鳳爪
+泡芙
+派
+海綿蛋糕
+清蒸鱸魚
+滑雞
+炒年糕
+炒萵筍
+炒西瓜皮
+炒面
+燉排骨
+燉雞
+炸茄盒
+炸醬面
+烤魚
+烤雞腿
+燒賣
+燒茄子
+焦糖布丁
+煎蛋
+煎豆腐
+燕麥餅幹
+爆米花
+牛筋
+牛肉幹
+牛肉湯
+牛肉燉土豆
+牛肉面
+牛腩
+豬手
+豬扒
+豬肉脯
+豬肝湯
+玉米餅
+瑪格麗特餅幹
+珍珠丸子
+甜甜圈
+生日蛋糕
+電飯鍋蛋糕
+番茄炒雞蛋
+疙瘩湯
+白灼蝦
+白菜燉豆腐
+皮蛋瘦肉粥
+皮蛋豆腐
+鹽焗雞
+粉蒸排骨
+粉蒸肉
+糖醋排骨
+糖醋裏脊
+糯米藕
+紫菜包飯
+紅燒排骨
+紅燒牛肉
+紅燒獅子頭
+紅燒肉
+紅燒茄子
+紅燒豆腐
+紅燒魚
+紅燒雞翅
+羅宋湯
+羊肉串
+羊肉湯
+老婆餅
+肉丸
+肉夾饃
+肉末酸豆角
+肉松面包
+肉皮凍
+臘八粥
+自制涼皮
+自制豆腐
+自制酸奶
+臭豆腐
+芒果布丁
+芝士蛋糕
+芝士面包
+花卷
+花生粥
+芽菜
+蘇式月餅
+苦瓜炒雞蛋
+蓮藕排骨湯
+蘿蔔湯
+蘿蔔糕
+葡萄酒
+蔥油餅
+蔥爆羊肉
+蔥花餅
+蒜泥白肉
+蓑衣黃瓜
+蝦仁炒蛋
+蝦餃
+螞蟻上樹
+蛋包飯
+蛋撻
+蛋炒飯
+西紅柿炒雞蛋
+西芹百合
+豆沙包
+豆沙面包
+豆腐腦
+豆角燜面
+辣子雞
+辣椒油
+辣椒醬
+酥餅
+醬油炒飯
+醬牛肉
+酸奶蛋糕
+酸梅湯
+酸菜魚
+酸辣土豆絲
+酸辣湯
+酸辣白菜
+酸辣粉
+銅鑼燒
+銀耳湯
+銀耳紅棗湯
+銀耳蓮子羹
+鍋包肉
+青椒土豆絲
+韓國泡菜
+韭菜盒子
+飯團
+餃子
+餛飩
+饅頭
+饅頭片
+香菇油菜
+香辣蝦
+香辣蟹
+馬蹄糕
+骨頭湯
+魚頭豆腐湯
+魚香肉絲
+魚香茄子
+魷魚圈
+鯽魚湯
+鯽魚豆腐湯
+雞湯
+雞蛋灌餅
+雞蛋糕
+雞蛋羹
+雞蛋餅
+鴨掌
+麻婆豆腐
+麻辣小龍蝦
+麻辣豆腐
+麻辣香鍋
+黃瓜炒雞蛋
+黑森林蛋糕
+雞蛋仔
+pokemon go
+龍蝦
+菠蘿包
+菠蘿油
+餐蛋面
